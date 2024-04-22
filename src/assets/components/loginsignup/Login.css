@@ -1,0 +1,33 @@
+*{
+    background-color: #121212;
+    background-image: url();
+}
+
+.border{
+    border-radius: 25px;
+    background-color: white;
+    margin-top: 300px;
+    
+
+}
+
+#Head{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.User{
+    display: flex;
+    flex-direction: column;
+}
+
+#submit{
+  color: brown;
+  border: none;
+  border-radius: 25px;
+  border-color: white;
+
+ 
+}
